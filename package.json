@@ -1,0 +1,26 @@
+{
+  "name": "mvc-model_views_controllers",
+  "version": "1.0.0",
+  "description": "Model – Handles data and business logic Example: Database queries, user data, etc.  View – Handles UI (User Interface) Example: HTML, EJS, React JSX — anything users see.  Controller – Handles user input and controls the flow Example: Receives form data, updates the model, and returns the right view.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sameer-Beg/MVC-Model_views_controllers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sameer-Beg/MVC-Model_views_controllers/issues"
+  },
+  "homepage": "https://github.com/Sameer-Beg/MVC-Model_views_controllers#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.4"
+  }
+}
